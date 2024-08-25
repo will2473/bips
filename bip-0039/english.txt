@@ -739,6 +739,7 @@ found
 fox
 fragile
 frame
+free
 frequent
 fresh
 friend
